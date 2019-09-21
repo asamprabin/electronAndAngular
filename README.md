@@ -1,7 +1,7 @@
 # Adding Elctron to Angular
 
 Step 1:
-In index.html change the base ref with "." in front
+In index.html change the base ref from "/" to "./" in front
 <base href="./">
 
 Step 2:
